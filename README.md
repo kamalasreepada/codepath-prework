@@ -5,7 +5,7 @@ CodePath Prework Project
 ### App Description
   This app works to demonstrate fundamental functionalities of an Android App using text labels, button functions, changing background colors, and editing text upon request
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://github.com/kamalasreepada/codepath-prework/blob/1774aa7fbddaefcf3002e2296b16a81bc8b2d4df/video4083281058-_online-video-cutter.com_.gif" width=200><br>
 
