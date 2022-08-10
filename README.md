@@ -7,7 +7,7 @@ CodePath Prework Project
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/kamalasreepada/codepath-prework/blob/1774aa7fbddaefcf3002e2296b16a81bc8b2d4df/video4083281058-_online-video-cutter.com_.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
