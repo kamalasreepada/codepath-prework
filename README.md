@@ -3,7 +3,7 @@ CodePath Prework Project
 ## Hello World App
 
 ### App Description
-  This app works to demonstrate fundamental functionalities using text labels, button functions, and editing text upon request
+  This app works to demonstrate fundamental functionalities of an Android App using text labels, button functions, changing background colors, and editing text upon request
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
@@ -23,4 +23,4 @@ CodePath Prework Project
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [x] c. If the text field is empty, update label with default text string.
-   - [x] d. The keyboard is dismissed after the button has been tapped.
+   - [ ] d. The keyboard is dismissed after the button has been tapped.
