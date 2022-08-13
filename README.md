@@ -1,7 +1,7 @@
 # codepath-prework
 CodePath Prework Project
 ## Hello World App
-<img width="467" alt="image" src="https://user-images.githubusercontent.com/86372288/184477221-7165f7f5-6dbf-40e9-bd45-0440217527a8.png">
+![image](https://user-images.githubusercontent.com/86372288/184477256-2eef41a8-d43a-495b-85ba-4defb18b3ad3.png)
 
 ### App Description
   This app works to demonstrate fundamental functionalities of an Android App using text labels, button functions, changing background colors, and editing text upon request
